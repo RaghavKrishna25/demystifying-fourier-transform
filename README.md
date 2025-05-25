@@ -1,2 +1,10 @@
-# demystifying-fourier-transform
-A clear, hands-on tutorial explaining the Fourier Transform — how signals move from time to frequency domain. Includes intuitive explanations, visualizations, and practical code examples to help students and engineers grasp this fundamental DSP concept easily.
+# Demystifying the Fourier Transform: From Time to Frequency
+
+This repository contains MATLAB codes and example scripts that demonstrate key concepts of the Fourier Transform. It complements my Medium article:
+
+[Demystifying the Fourier Transform: From Time to Frequency](LINK)
+
+The codes are organized into folders by topic to help you explore specific aspects easily.
+
+Feel free to clone and try the scripts in MATLAB.  
+For detailed explanations and theory, please refer to the article above.
